@@ -1,3 +1,5 @@
+FEITO POR: FILIPE ZEGO E HUGO SILVA
+
 SISTEMA DE GESTÃO DE BIBLIOTECA
 Projeto desenvolvido em Java utilizando Programação Orientada a Objetos (POO), Java Swing para interface gráfica e ficheiros TXT para persistência de dados.
 
